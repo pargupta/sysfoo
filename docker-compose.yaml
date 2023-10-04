@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  sysfoo:
+    image: parag54321/sysfoo:v1
+    ports:
+      - 8888:8080
